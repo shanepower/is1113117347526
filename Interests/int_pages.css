@@ -14,3 +14,8 @@
     text-align:center;
     color:white;
 }
+body{ 
+    background-image: url(https://pbs.twimg.com/profile_images/378800000507610301/b8965e69a7c5560058bcc87287d1d360_400x400.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
