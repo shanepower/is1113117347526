@@ -1,0 +1,10 @@
+.mainheading{
+    text-align: center;
+}
+
+html,body{ 
+    height:100%;
+    width:100%;
+    background: url("https://static.c9.io/nc-3.1.4109-2ffb85e2-wf/static/plugins/c9.profile/static/images/cloud9-logo.svg") no-repeat center;
+    background-size:cover;
+}
