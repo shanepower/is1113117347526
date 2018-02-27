@@ -10,3 +10,15 @@ img{
     left:20%;
     width:60%;
 }
+
+h1{
+    color: blue ;
+      font-size: 3em;
+    position: relative;
+   
+}
+p {font-size:18px;
+color:#538b01;
+  font-weight:bold;
+     font-style:italic;
+}

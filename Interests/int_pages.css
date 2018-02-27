@@ -1,21 +1,24 @@
 #section1{
-    background-color: rgb(238,0,90);
-    
-}
-#section2{
-    background-color: rgb(44,62,80);
-    
-}
-#section3{
-    background-color: rgb(51,153,204);
-    
-}
-.section{
-    text-align:center;
-    color:white;
-}
-body{ 
-    background-image: url(https://pbs.twimg.com/profile_images/378800000507610301/b8965e69a7c5560058bcc87287d1d360_400x400.jpeg);
+    background : url("https://www.travelsupermarket.com/content/dam/travelsupermarket/background/hero-images/c/cruises/cruises-caribbean.jpg");
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
 }
+
+#section2{
+    background : url(https://ak2.picdn.net/shutterstock/videos/4587662/thumb/1.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section3{
+    background : url("https://www.australia.com/content/australia/en_gb/things-to-do/aquatic/_jcr_content/image.adapt.985.HIGH.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section{
+    text-align: center;
+    color: white;
+}
+

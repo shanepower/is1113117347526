@@ -2,6 +2,11 @@
     text-align: center;
 }
 
+html,body{ 
+    width:100%;
+    background: url("https://static.pexels.com/photos/314726/pexels-photo-314726.jpeg") no-repeat center;
+    background-size:cover;
+}
 ul {
     list-style-type: none;
     margin: 0;
